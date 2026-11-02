@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/cde299ae-0d8f-45b1-81f7-300dd0d8aa98
+
 # STM32H7 Video Player – 7-Inch RGB LCD
 
 A standalone video player built using the **STM32H743 microcontroller** and a **7-inch Alientek IPS capacitive-touch display**.
